@@ -3,6 +3,7 @@ An NES emulator coded entirely on C programming language using device drivers de
 <br><br>
 [![Static Badge](https://img.shields.io/badge/OS-Minix%203-blue)](https://minix3.org/)
 <br><br>
+#### Grade: 18/20
 
 ## Table of contents
 1. [Introduction](#introduction)
