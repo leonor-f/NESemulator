@@ -2,7 +2,7 @@
 An NES emulator coded entirely on C programming language using device drivers developed for the LCOM Curricular Unit.
 <br><br>
 [![Static Badge](https://img.shields.io/badge/OS-Minix%203-blue)](https://minix3.org/)
-<br><br>
+<br>
 #### Grade: 18/20
 
 ## Table of contents
